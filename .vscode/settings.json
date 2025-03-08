@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        ".env*": "dotenv",
+        "random": "cpp",
+        "iostream": "cpp"
+    }
+}
